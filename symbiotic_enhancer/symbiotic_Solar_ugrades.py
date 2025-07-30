@@ -1,0 +1,1 @@
+# Sol traz todos seus upgrades pra esse modulo, o que foi ocultado tambem modulo solar do plugin fique a vontade
